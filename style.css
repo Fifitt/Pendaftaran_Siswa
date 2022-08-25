@@ -1,0 +1,8 @@
+.login{
+    border: 2px solid rgb(25, 25, 26);
+    margin: 2px 25rem;
+    padding: 20px 15px;
+    position: relative;
+    top: 1cm;
+    background-color: rgb(29, 185, 247);
+}
